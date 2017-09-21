@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Comparisons</string>
+
+    <string name="less_than_button">&lt;</string>
+    <string name="equal_button">&#61;</string>
+    <string name="greater_than_button">&gt;</string>
+
+    <string name="tv_number_left">1 + 1</string>
+    <string name="tv_number_right">3</string>
+
+    <string name="answer">Correct</string>
+
+</resources>
