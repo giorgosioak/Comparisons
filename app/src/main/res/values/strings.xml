@@ -11,4 +11,11 @@
 
     <string name="answer">Correct</string>
 
+    <string name="new_game">Start a new game</string>
+    <string name="correct">Correct</string>
+    <string name="wrong_answer">Wrong Answer</string>
+
+    <string name="points_text">Points:</string>
+    <string name="points_number_default">0</string>
+
 </resources>
