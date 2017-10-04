@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setAnswerWrong() {
 
-        answer_tv.setText(R.string.wrong_answer+" "+R.string.new_game);
+        answer_tv.setText(R.string.wrong_answer);
 
         game_active = 0;
 
